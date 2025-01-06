@@ -1,8 +1,8 @@
 # MA 326: Mathematical Foundations of Data Science 
 
 We used two publicly available datasets in our project: 
-  a. Hand-written digits (https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits)
-  b. Complex color images (https://www.cs.toronto.edu/~kriz/cifar.html)
+- Hand-written digits (https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits)
+- Complex color images (https://www.cs.toronto.edu/~kriz/cifar.html)
 
 The code used in this project has the following files and methods: 
 1. LRA.py
